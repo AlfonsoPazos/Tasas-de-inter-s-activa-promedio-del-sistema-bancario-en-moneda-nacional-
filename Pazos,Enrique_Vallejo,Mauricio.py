@@ -2,7 +2,8 @@
 """
 Created on Wed Mar  9 17:17:50 2022
 
-@author: Alfonso
+#Alumnos: Enrique A. Pazos
+#         Mauricio Vallejos  
 """
 # Usaremos la librería selenium y beautiful soup para hacer web scraping
 from selenium import webdriver
